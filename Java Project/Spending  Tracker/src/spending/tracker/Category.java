@@ -248,15 +248,7 @@ public class Category extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_catDeleteActionPerformed
 
-    public static void main(String args[]) {
-       
-       
-        java.awt.EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                new Category().setVisible(true);
-            }
-        });
-    }
+   
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton AddCategory;
